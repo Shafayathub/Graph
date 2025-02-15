@@ -196,4 +196,4 @@ bool isCyclicDFS(int v, vector<int> adj[], vector<bool> &visited, int parent) {
 - [Graph Implementation in C++ (YouTube)](https://www.youtube.com/watch?v=ZBHKZF5w4YU)
 
 ---
-📌 *This file serves as a quick revision guide for Graphs in C++. Feel free to contribute or suggest improvements!* 🚀
+📌 *This file serves as a quick revision guide for Graphs in C++.* 🚀
